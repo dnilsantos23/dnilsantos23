@@ -1,7 +1,7 @@
-# 👩🏻‍💻 Daniel S. Santos
+# 🧑🏾‍💻 Daniel S. Santos
 **`Desenvolvedor de Jogos e aplicativos com Python | Java | C | C# | Robótica com Arduino e C++`**
 
-Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. 
+Me chamo Daniel Severo dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia e com ênfase em Programação desde 2010. Segue abaixo algumas experiências adquiridas ao longo do tempo.
 
 ### 💼 Experiência Profissional
 
@@ -17,12 +17,25 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
   * Programação em **Java** dentro da plataforma **Alice 3**
   * Criação de scripts dentro do Roblox Studio.
   
-* **Instrutor de cursos de Desenvolvimento de jogos, Aplicativos e Robótica com Arduino** – *HappyCode São Leopoldo* (2025)
+* **Instrutor de cursos de Desenvolvimento de jogos, Aplicativos e Robótica com Arduino** – *Happy São Leopoldo* (2025)
   * Desenvolvimento de projetos práticos com **Arduino**, com sensores e atuadores utilizando linguagem **C++**.
   * Introdução ao pensamento computacional e eletrônica básica.
   * Desenvolvimento de *games e aplicativos* com **Python e Panda3D**, **Unity e C#**, **Construct 3**, **Kodular**, **Thunkable**, **Bubble**.
   * Conceitos práticos de **IoT**
- 
+
+ ---
+
+### 📚 Formação e Certificações
+
+#### 🎓 Em Andamento
+* ☕ **Java Completo** - Programação Orientada a Objetos (*Udemy*)
+* 🐍 **Python e Apps (Android, iOS, Desktop)** - Cross-platform development (*Udemy*)
+* 🔷 **C# Completo** - Programação Orientada a Objetos (*Udemy*)
+
+#### ✅ Concluído
+* 🤖 **Introdução à Engenharia com Arduino** – *Udemy* (2025)
+* 🐘 **Work Series: PHP Orientado a Objetos** – *Upinside Treinamentos* (2017)
+* 🛠️ **Montagem e Configuração de Computadores** – *Escola Informatize* (2014)
   
 *Também desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código limpo e eficiente, procurando sempre utilizar padrões de projeto (Design Patterns).*
 
