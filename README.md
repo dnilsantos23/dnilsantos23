@@ -1,8 +1,7 @@
 # 👩🏻‍💻 Daniel S. Santos
 **`Desenvolvedor de Jogos e aplicativos com Python | Java | C | C# | Robótica com Arduino e C++`**
 
-Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Em 2014 ganhei minha primeira oportunidade como instrutor de .
----
+Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. 
 
 ### 💼 Experiência Profissional
 
