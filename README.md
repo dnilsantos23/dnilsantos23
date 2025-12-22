@@ -14,17 +14,10 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-<!-- Este é um projeto pessoal desenvolvido em **Python** que foca em [DESCREVER O OBJETIVO DO PROJETO]. -->
-
-<!--### 🚀 Projeto em Destaque: [NOME DO SEU PROJETO] -->
-
-
-<!--A aplicação foi estruturada de forma modular, dividida em múltiplos arquivos para facilitar a manutenção e escalabilidade.-->
-<!--* **Tecnologias:** Python, [BIBLIOTECA 1], [BIBLIOTECA 2].-->
-<!--* **Destaques:** Modularização, manipulação de dados e [OUTRO PONTO FORTE].-->
-<!--👉 [**Clique aqui para ver o repositório**](https://github.com/dnilsantos23/NOME-DO-REPOSITORIO)-->
-
-
+### 🚀 Projeto em Destaque
+**[Software Educacional](https://github.com/dnilsantos23/software_educacional)**
+Software desenvolvido em **Python** com estrutura modular. O projeto demonstra a aplicação de lógica de programação voltada para a área da educação, 
+utilizando boas práticas de organização de arquivos.
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
