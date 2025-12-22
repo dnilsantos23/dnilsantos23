@@ -10,9 +10,6 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
   <a href="https://www.instagram.com/dnil_santos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/5551997970571" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
 </p>
 
 ---
@@ -35,7 +32,6 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
 Software desenvolvido em **Python** com estrutura modular. O projeto demonstra a aplicação de lógica de programação voltada para a área da educação, utilizando boas práticas de organização de arquivos.
 
 [![GitHub Repo](https://img.shields.io/badge/REPOSITÓRIO-ACESSAR-black?style=for-the-badge&logo=github)](https://github.com/dnilsantos23/software_educacional)
-![Linguagem](https://img.shields.io/github/languages/top/dnilsantos23/software_educacional?style=for-the-badge&color=yellow)
 
 ---
 
