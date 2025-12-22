@@ -1,7 +1,7 @@
-# 🧑🏾‍💻Daniel S. Santos
-**`Desenvolvedor de games e IoT com Python/Java/C#/C++`**
+# 👩🏻‍💻 Daniel S. Santos
+**`Desenvolvedor de Jogos e aplicativos com Python | Java | C | C# | Robótica com Arduino e C++`**
 
-Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Possuo experiência como instrutor de cursos de informática e programação desde 2014, e também desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em duas linguagens que estão em alta, Python e Java e também buscando seguir padrões de projetos aprendidos até aqui.
+Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Possuo experiência como instrutor de hardware e programação desde 2014, e também desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código limpo e eficiente.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
@@ -14,10 +14,31 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
+
+---
+
+### 💼 Experiência Profissional
+
+* **Instrutor de Hardware e Programação** – *Nome da Escola 1* (2014 - Atual)
+  * Responsável por ministrar aulas de arquitetura de computadores, montagem e manutenção de hardware.
+  * Ensino de lógica de programação utilizando Python e Java para alunos iniciantes e avançados.
+
+* **Instrutor de Tecnologia e Robótica** – *Nome da Escola 2* (Período)
+  * Desenvolvimento de projetos práticos com **Arduino**, sensores e atuadores utilizando linguagem C/C++.
+  * Introdução ao pensamento computacional e eletrônica básica.
+
+---
+
 ### 🚀 Projeto em Destaque
+
 **[Software Educacional](https://github.com/dnilsantos23/software_educacional)**
-Software desenvolvido em **Python** com estrutura modular. O projeto demonstra a aplicação de lógica de programação voltada para a área da educação, 
-utilizando boas práticas de organização de arquivos.
+Software desenvolvido em **Python** com estrutura modular. O projeto demonstra a aplicação de lógica de programação voltada para a área da educação, utilizando boas práticas de organização de arquivos.
+
+[![GitHub Repo](https://img.shields.io/badge/REPOSITÓRIO-ACESSAR-black?style=for-the-badge&logo=github)](https://github.com/dnilsantos23/software_educacional)
+![Linguagem](https://img.shields.io/github/languages/top/dnilsantos23/software_educacional?style=for-the-badge&color=yellow)
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
@@ -32,35 +53,10 @@ utilizando boas práticas de organização de arquivos.
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
-### 💼 Experiência Profissional
-
-* **Instrutor de Informática/Montagem e Configuração** – *Escola Informatize* (20/10/2014 - 03/12/2015)
-  * Instrutor de cursos de informática fundamental (Windows, Word, Excel, PowerPoint), montagem e manutenção de Computadores.
-  * Responsável pela administração do servidor local com Windows Server 2003, suporte e treinamento aos colaboradores,
-  *  manutenção preventiva e corretiva dos computadores da escola.
-
-* **Instrutor de cursos de desenvolvimento de jogos** – *HappyCode São Leopoldo* (12/11/2019 - 05/11/2020)
-  * Desenvolvimento de jogos com **Java e JavaScript**.
-  * Programação dentro do **Roblox Studio**.
-  * Programação dentro do **Minecraft**.
-  * Programação orientada a eventos com **Alice 3**.
-  * Modelagem com **Blender**.
-
-* **Instrutor de cursos de informática fundamental** – *Escola Atitude* (04/04/2019 - 10/11/2019)
-  * Ensino de conceitos fundamentais relacionados a informática fundamental(Windows, Word, Excel, PowerPoint).
-
-* **Instrutor de cursos de desenvolvimento de jogos** – *HappyCode São Leopoldo* (23/06/2025 - 19/12/2025)
-  * **Robótica com Arduino**, sensores e atuadores utilizando linguagem *C/C++*.
-  * Lógica e Algoritmos em **Python**.
-  * Desenvolvimento de jogos utilzando **Python e Panda3D**.
-  * Desenvolvimento de aplicativos com **Python e KivyMD**.
-  * Desenvolvimento de games 2D avançado com **Unity e C#**.
-  * Desenvolvimento de Jogos com **Construct 3**
----
+<br/>
 
 ### 📊 Estatísticas
 
