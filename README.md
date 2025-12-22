@@ -1,7 +1,31 @@
 # 👩🏻‍💻 Daniel S. Santos
 **`Desenvolvedor de Jogos e aplicativos com Python | Java | C | C# | Robótica com Arduino e C++`**
 
-Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Possuo experiência como instrutor de hardware e programação desde 2014, e também desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código limpo e eficiente.
+Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia, com ênfase em Programação desde 2010. Em 2014 ganhei minha primeira oportunidade como instrutor de .
+---
+
+### 💼 Experiência Profissional
+
+* **Instrutor** – *Escola Informatize* (2014 - 2015)
+  * Informática Fundamental
+  * Montagem e configuração de computadores
+  * Excel intermediário
+  * Administração de servidor local, cadastro de novos usuários, suporte aos colaboradores, manutenção preventiva e corretiva dos computadores da escola.
+ 
+* **Instrutor de cursos de Desenvolvimento de jogos** – *HappyCode São Leopoldo* (2019 - 2021)
+  * Programação em **Java** dentro do Minecraft Education.
+  * Programação orientada a eventos dentro do **Construct 2**
+  * Programação em **Java** dentro da plataforma **Alice 3**
+  * Criação de scripts dentro do Roblox Studio.
+  
+* **Instrutor de cursos de Desenvolvimento de jogos, Aplicativos e Robótica com Arduino** – *HappyCode São Leopoldo* (2025)
+  * Desenvolvimento de projetos práticos com **Arduino**, com sensores e atuadores utilizando linguagem **C++**.
+  * Introdução ao pensamento computacional e eletrônica básica.
+  * Desenvolvimento de *games e aplicativos* com **Python e Panda3D**, **Unity e C#**, **Construct 3**, **Kodular**, **Thunkable**, **Bubble**.
+  * Conceitos práticos de **IoT**
+ 
+  
+*Também desenvolvi a habilidade de traduzir conceitos complexos em soluções práticas. Atualmente focado em Java/Python e na criação de código limpo e eficiente, procurando sempre utilizar padrões de projeto (Design Patterns).*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dnilsantos23" target="_blank">
@@ -12,23 +36,11 @@ Me chamo Daniel S. dos Santos, nascido em 23 de julho de 1984, e natural do Rio 
   </a>
 </p>
 
----
 
-### 💼 Experiência Profissional
-
-* **Instrutor de Hardware e Programação** – *Nome da Escola 1* (2014 - Atual)
-  * Responsável por ministrar aulas de arquitetura de computadores, montagem e manutenção de hardware.
-  * Ensino de lógica de programação utilizando Python e Java para alunos iniciantes e avançados.
-
-* **Instrutor de Tecnologia e Robótica** – *Nome da Escola 2* (Período)
-  * Desenvolvimento de projetos práticos com **Arduino**, sensores e atuadores utilizando linguagem C/C++.
-  * Introdução ao pensamento computacional e eletrônica básica.
-
----
 
 ### 🚀 Projeto em Destaque
 
-**[Software Educacional](https://github.com/dnilsantos23/software_educacional)**
+**Software Educacional**
 Software desenvolvido em **Python** com estrutura modular. O projeto demonstra a aplicação de lógica de programação voltada para a área da educação, utilizando boas práticas de organização de arquivos.
 
 [![GitHub Repo](https://img.shields.io/badge/REPOSITÓRIO-ACESSAR-black?style=for-the-badge&logo=github)](https://github.com/dnilsantos23/software_educacional)
