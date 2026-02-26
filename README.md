@@ -28,8 +28,8 @@ Me chamo Daniel Severo dos Santos, nascido em 23 de julho de 1984, e natural do 
 ### 📚 Formação e Certificações
 
 #### 🎓 Graduação
-* **Análise e Desenvolvimento de Sistemas** – *Faculdade Estácio* (4º Semestre - Em andamento)
-* **Engenharia de Software** – *Faculdade Uninter* (1º Semestre - Em andamento)
+* **Análise e Desenvolvimento de Sistemas** – *Faculdade Estácio* - 4º semestre
+* **Engenharia de Software** – *Faculdade Uninter* - 1º semestre
 
 #### 🎓 Em Andamento
 * ☕ **Java Completo** - Programação Orientada a Objetos (*Udemy*)
