@@ -80,10 +80,3 @@ Software desenvolvido em **Python** com estrutura modular. O projeto demonstra a
 </div>
 
 <br/>
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnilsantos23&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnilsantos23&layout=compact&theme=tokyonight&custom_title=Tecnologias" alt="Tecnologias mais usadas" />
-</p>
