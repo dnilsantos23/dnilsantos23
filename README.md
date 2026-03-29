@@ -17,7 +17,7 @@ Me chamo Daniel Severo dos Santos, nascido em 23 de julho de 1984, e natural do 
   * Programação em **Java** dentro da plataforma **Alice 3**
   * Criação de scripts dentro do Roblox Studio.
   
-* **Instrutor de cursos de Desenvolvimento de jogos, Aplicativos e Robótica com Arduino** – *Happy São Leopoldo* (2025)
+* **Instrutor de cursos de Desenvolvimento de jogos, Aplicativos e Robótica com Arduino** – *Happy São Leopoldo e Porto ALegre* (2025 até os dias atuais)
   * Desenvolvimento de projetos práticos com **Arduino**, com sensores e atuadores utilizando linguagem **C++**.
   * Introdução ao pensamento computacional e eletrônica básica.
   * Desenvolvimento de *games e aplicativos* com **Python e Panda3D**, **Unity e C#**, **Construct 3**, **Kodular**, **Thunkable**, **Bubble**.
