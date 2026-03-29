@@ -1,7 +1,7 @@
 # 🧑🏾‍💻 Daniel S. Santos
 **`Desenvolvedor de Jogos e aplicativos com Python | Java | C | C# | Robótica com Arduino e C++`**
 
-Me chamo Daniel Severo dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Ribeirão Preto, no formato EAD. Venho buscando conhecimentos relacionados a tecnologia e com ênfase em Programação desde 2010. Segue abaixo algumas experiências adquiridas ao longo do tempo.
+Me chamo Daniel Severo dos Santos, nascido em 23 de julho de 1984, e natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio - Polo São Leopoldo, e Engenharia de Software na Faculdade Uninter - Polo São Leopoldo, ambas no formato EaD. Venho buscando conhecimentos relacionados a tecnologia e com ênfase em Programação desde 2010. Segue abaixo algumas experiências adquiridas ao longo do tempo.
 
 ### 💼 Experiência Profissional
 
@@ -35,6 +35,8 @@ Me chamo Daniel Severo dos Santos, nascido em 23 de julho de 1984, e natural do 
 * ☕ **Java Completo** - Programação Orientada a Objetos (*Udemy*)
 * 🐍 **Python e Apps (Android, iOS, Desktop)** - Cross-platform development (*Udemy*)
 * 🔷 **C# Completo** - Programação Orientada a Objetos (*Udemy*)
+* 🕹️ **Desenvolvimento de jogos** - Unity e C# (*Udemy*)
+
 
 #### ✅ Concluído
 * 🤖 **Introdução à Engenharia com Arduino** – *Udemy* (2025)
